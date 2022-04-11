@@ -1,0 +1,70 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+.slogo{
+    width:25%;
+    float:left;
+}
+.searchicon{
+    width:5%;
+}
+
+.fa-regular{
+    width:20%; 
+}
+
+.input-group{
+    width:30%;
+    padding-left:2%;
+    float:left;
+}
+.bi{
+    font-size: 23px;
+    color:blueviolet;
+    padding:2%;
+  }
+  .input-group-text{
+    border-radius: 0.0rem;
+  }
+
+
+.btn{
+    background-color:blueviolet;
+    color:white;
+    border-radius:50px;
+    margin-left: 2%;
+    font-weight: bold;
+}
+
+.navbar{
+    width:100%;
+    margin-top:1%;
+}
+.nav-item{
+    margin-right: 7vw;
+    font-weight:bold;
+}
+.w-100 {
+    width: 100% !important;
+  }
+
+.roundleft{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-left: 1px solid #ced4da !important;
+    border-right: 1px solid rgba(0,0,0,0)!important;
+    border-top: 1px solid #ced4da!important;
+    border-bottom: 1px solid #ced4da!important;
+}
+.roundright{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgba(0,0,0,0) !important;
+    border-right: 1px solid #ced4da !important;
+    border-left: 1px solid rgba(0,0,0,0)!important;
+    border-top: 1px solid #ced4da!important;
+    border-bottom: 1px solid #ced4da!important;
+
+}
